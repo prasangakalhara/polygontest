@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2b0F6a7a34D54a416EB7E4194EED302ad9b17316",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x2b0F6a7a34D54a416EB7E4194EED302ad9b17316",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "cyber face",
+  "SYMBOL": "CF",
+  "MAX_SUPPLY": 50,
+  "WEI_COST": 10000000000000000000,
+  "DISPLAY_COST": 10,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/0x12e8dd470D01d861273CaB898F2c48d4e35EAf3f",
+  "SHOW_BACKGROUND": true
+}
